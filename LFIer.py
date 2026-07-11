@@ -19,7 +19,7 @@ def banner():
     | |   | |_   | |/ _ \\ '__|
     | |___|  _|  | |  __/ |
     |_____|_|   |___\\___|_|
-    by Mohamed Newish @kanike99
+    by Mohamed Newish
     ''', 'green'))
 
 

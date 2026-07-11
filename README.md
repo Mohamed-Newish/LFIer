@@ -47,4 +47,4 @@ This tool is for **authorized security testing and educational use only**. Only 
 
 ## License
 
-Mohamed Newish — [@kanike99](https://twitter.com/kanike99)
+Mohamed Newish — [LinkedIn](https://www.linkedin.com/in/mohamed-newish-8470a5395)
